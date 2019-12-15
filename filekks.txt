@@ -1,1 +1,3 @@
 ini laporan kakas
+
+ok laporan kakas
